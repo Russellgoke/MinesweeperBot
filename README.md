@@ -3,7 +3,7 @@ This readme is AI generated.
 Minesweeper Bot and Trainer
 
 This project is a Minesweeper game implemented in Python, featuring a built-in bot and training tools to enhance your Minesweeper skills. 
-The game allows you to play interactively, visualize safe moves, and calculate the probabilities of each cell being a mine. With an advanced automatic mode, the bot can play the game for you, providing insights into optimal strategies. Don't make the window to large or it will take a very long time to computer.
+The game allows you to play interactively, visualize safe moves, and calculate the probabilities of each cell being a mine. With an advanced automatic mode, the bot can play the game for you, providing insights into optimal strategies. Don't make the window to large or it will take a very long time to compute. The code is total spaghetti as this is an old project of mine.
 
 Features:
 
