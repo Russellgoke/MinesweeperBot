@@ -6,9 +6,9 @@ import math
 from colour import Color
 
 # these are for the game
-cols = 9
-rows = 9
-numMines = 26
+cols = 12
+rows = 14
+numMines = 50
 visual = True  # does screen show up
 minesPlaced = 0  # how many mines placed in setup
 mines = []  # -1 is for blank, -2 is blank flag, -3 is for mine, -4 is for mine flag and other for # nearby
@@ -23,7 +23,7 @@ size = 1300
 info_map = []  # x,y (>0-the number, -1-info, -2-unknown, -3 mine)
 auto_mode = 2  # 0 nothing, 1 obvious, 2 certains, 3 guessing
 hide_percents = False
-first_click_zero = True
+first_click_zero = False
 alive_chance = 1
 # colors = list(Color("Green").range_to(Color("Red"), 10))
 
